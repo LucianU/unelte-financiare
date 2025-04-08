@@ -1,0 +1,16 @@
+[tool.poetry]
+name = "unelte-financiare"
+version = "0.1.0"
+description = "Unelte pentru analiză financiară."
+authors = ["Lucian Ursu <lucian.ursu@gmail.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.11"
+streamlit = "^1.44.1"
+scipy = "^1.15.2"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
