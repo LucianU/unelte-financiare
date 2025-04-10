@@ -9,6 +9,7 @@ readme = "README.md"
 python = "^3.11"
 streamlit = "^1.44.1"
 scipy = "^1.15.2"
+watchdog = "^6.0.0"
 
 
 [build-system]
