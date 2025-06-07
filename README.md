@@ -5,6 +5,8 @@ Această aplicație reunește **8 unelte simple și utile** care te ajută să �
 
 Este gândită pentru **antreprenori, freelanceri și manageri** care vor să ia decizii mai bune, bazate pe date, nu doar pe intuiție.
 
+O poți accesa la: https://unelte-fin.streamlit.app
+
 ---
 
 ## 🔧 Ce include
